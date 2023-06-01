@@ -17,3 +17,6 @@ Based in Colombia :colombia:, I've been primarily working in the financial secto
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 </div>
 
+# My Stats :statue_of_liberty:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juancalderonde)](https://git.io/streak-stats)
