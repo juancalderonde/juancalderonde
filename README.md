@@ -19,5 +19,8 @@ Based in Colombia :colombia:, I've been primarily working in the financial secto
 
 # My Stats :statue_of_liberty:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juancalderonde)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancalderonde)](https://github.com/juancalderonde/github-readme-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=juancalderonde)](https://git.io/streak-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancalderonde)](https://github.com/anuraghazra/github-readme-stats)
+<div>
