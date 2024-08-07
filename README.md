@@ -20,7 +20,5 @@
 # My Stats :statue_of_liberty:
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=juancalderonde)](https://git.io/streak-stats)
-  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancalderonde)](https://github.com/anuraghazra/github-readme-stats)
 
