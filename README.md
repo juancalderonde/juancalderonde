@@ -42,5 +42,8 @@ Currently exploring cloud infrastructure, scalable system design, and self-hoste
 
 ---
 
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancalderonde)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juancalderonde&theme=dark)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancalderonde&theme=github_dark)
