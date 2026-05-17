@@ -43,5 +43,4 @@ Currently exploring cloud infrastructure, scalable system design, and self-hoste
 ---
 
 ## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancalderonde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancalderonde)](https://github.com/anuraghazra/github-readme-stats)
